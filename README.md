@@ -1,3 +1,3 @@
 initial content
 extra line　　
-new-featureブランチで変更
+mainブランチで変更
