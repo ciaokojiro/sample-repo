@@ -1,3 +1,3 @@
 initial content
 extra line　　
-mainブランチで変更
+conflictブランチで変更(コンフリクト発生)
